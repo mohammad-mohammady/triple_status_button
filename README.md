@@ -4,7 +4,6 @@ Triple Status Button.
 Flutter Triple Status Button can use toggle button but in three statuses.
 
 
-<img src="https://user-images.githubusercontent.com/32927238/111130699-cead5300-8577-11eb-8759-7b07b2c4d28c.gif" width="32%">
 
 | Property | Description |
 | --- | --- |
@@ -16,6 +15,7 @@ Flutter Triple Status Button can use toggle button but in three statuses.
 | `backgroundColor` | backgroundColor is color of main (background) widget. it's required.  |
 | `circleAnimState` | with circleAnimState you can get state of widget. [left,middle,right].  |
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/26311171/137097350-f4491635-93fa-4008-a8b6-fbb69b29e82a.gif)
 
 
 Usage
