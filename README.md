@@ -3,7 +3,7 @@
 Triple Status Button.
 Flutter Triple Status Button can use toggle button but in three statuses.
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/26311171/137097350-f4491635-93fa-4008-a8b6-fbb69b29e82a.gif)
+<div  style="height: 500px;">![ezgif com-gif-maker](https://user-images.githubusercontent.com/26311171/137097350-f4491635-93fa-4008-a8b6-fbb69b29e82a.gif)</div>
 
 
 | Property | Description |
